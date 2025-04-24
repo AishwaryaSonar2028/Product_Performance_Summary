@@ -43,10 +43,10 @@ These visuals help analyze performance trends, discount effects, and cost struct
 
 ## 🖼️ Dashboard Preview
 
-<img width="633" alt="Screenshot 2" src="https://github.com/user-attachments/assets/607e1bc8-c40b-45ec-bf84-4d97ffc2b459" />
 
 <img width="638" alt="Screenshot 1" src="https://github.com/user-attachments/assets/370872cd-e396-485d-914f-28bf4173c63d" />
 
+<img width="633" alt="Screenshot 2" src="https://github.com/user-attachments/assets/607e1bc8-c40b-45ec-bf84-4d97ffc2b459" />
 
 ---
 
